@@ -1,5 +1,7 @@
 # Responsive html-css-js template
 
+![android-chrome-384x384](https://user-images.githubusercontent.com/49658988/128320995-f5feb40a-d999-436b-95d6-1daeff94f659.png)
+
 ---
 
 ## How to launch locally?
